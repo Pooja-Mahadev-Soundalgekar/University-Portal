@@ -1,0 +1,8 @@
+Student, admin, instructor login and grades assessment. 
+MySQL database.
+Login Page.
+Admin can change, update any data and also solve student-instructor technical problems.
+Students can view grades, submit activities, ask queries and submit doubts.
+Instructors can upload activities, upload grades, assess activity submissions, reply to student queries.
+
+Grades represented using graphs developed using Canvas and Chart JS. 
